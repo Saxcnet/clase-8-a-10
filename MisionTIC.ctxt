@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=MisionTIC
+comment0.text=\n\ Use\ los\ comentarios\ para\ explicar\ el\ objetivo\ de\ este\ programa\ MisionTIC\ .\n\n\ @author\ Ponga\ aqui\ su\ nombre\ y\ correo\n\ @version\ Ponga\ aqu\u00ED\ la\ versi\u00F3n\ o\ fecha\n
+comment1.params=
+comment1.target=MisionTIC()
+comment2.params=ciclo
+comment2.target=MisionTIC(int)
+comment3.params=tripulante
+comment3.target=boolean\ agregar(Tripulante)
+comment4.params=tripulante
+comment4.target=Tripulante\ buscar(Tripulante)
+comment5.params=tripulante
+comment5.target=boolean\ eliminar(Tripulante)
+comment6.params=
+comment6.target=void\ borrarTodo()
+numComments=7
